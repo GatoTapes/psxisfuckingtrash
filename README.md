@@ -1,2 +1,0 @@
-# psxisfuckingtrash
-fake psx gui
